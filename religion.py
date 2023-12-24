@@ -147,7 +147,7 @@ def religionGen(input_file_path,folder_path):
 
         if type == "Folk":
             paganroots = "yes"
-            pagandoctrine = "doctrine = unreformed_faith_doctrine"
+            pagandoctrine = "unreformed_faith_doctrine"
         else:
             paganroots = "no"
 
